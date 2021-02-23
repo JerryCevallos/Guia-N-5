@@ -78,12 +78,15 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 ![Impedancia](https://user-images.githubusercontent.com/75337022/108886021-7a493000-75d6-11eb-8dfa-c607cabaf1f2.png)
 
+4.4 Resolucion de ejercicios 
+
 
 5. Analisis de resultados
 
  5.1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multímetro y las calculadas en el trabajo preparatorio. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
  
  5.2.- En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X = Vo/I en cada una de las frecuencias y también para calcular los valores de L௘௤ y C௘௤ según sea el caso. Anote los resultados en una tabla haciendo constar también las frecuencias. Comente los resultados.
+
 
 6. Preguntas
 
@@ -95,20 +98,22 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase  de  transición  y  fase  de  continua.  En  la  fase  de  estabilización,  se  producen  los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el circuito. 
 
-
+![Pregunta 1](https://user-images.githubusercontent.com/75337022/108887665-8930e200-75d8-11eb-9ff8-d9d22f0b1d56.png)
 
 En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito.
 
+![Pregunta 2](https://user-images.githubusercontent.com/75337022/108887678-8df59600-75d8-11eb-9eb7-653d72ac54d7.png)
 
 
  6.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. 
 
+![Pregunta 3](https://user-images.githubusercontent.com/75337022/108887688-9352e080-75d8-11eb-8829-03906edd0c1a.png)
 
+ Entonces se  puede representar al capacitor como un elemento pasivo más en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente    alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
 
-Entonces se  puede representar al capacitor como un elemento pasivo más en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente  alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
-
+![Pregunta 3](https://user-images.githubusercontent.com/75337022/108887688-9352e080-75d8-11eb-8829-03906edd0c1a.png)
 
 Entonces se  puede representar al inductor como un elemento pasivo más en el circuito.
 
@@ -116,27 +121,42 @@ Entonces se  puede representar al inductor como un elemento pasivo más en el ci
 
 Lo único que sucedería es que los valores de Vₒ varíen en función de que tanto se altere la impedancia 𝑋 del valor total de impedancia 
 
+![Pregunta 4](https://user-images.githubusercontent.com/75337022/108887708-98179480-75d8-11eb-970f-a2ea0b714a50.png)
+
 Si  la  impedancia capacitiva  o  resistiva  resulta  ser menor,  la  caída  de  tensión  Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
 
  6.5 ¿Qué son los valores eficaces de voltaje y corriente?
 
 Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equivalentes  en corriente  continua  es  decir  tendrá  el  mismo  comportamiento  respecto  a  potencia suministrada en el circuito.
 
-
-
+![Pregunta 5](https://user-images.githubusercontent.com/75337022/108887722-9e0d7580-75d8-11eb-9d50-9c835e4c1706.png)
 
 7. Conclusiones y Recomendaciones
 
    Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc). 
+ 
    Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos.   El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
+ 
    Mientras mayor sea la frecuencia la impedancia capacitiva será menor. 
+ 
    Mientras mayor sea la frecuencia la impedancia inductiva será mayor. 
-
+ 
 8. Anexos 
 
+ 8.1 Circuitos graficados en Software Proteus
 
 9. Bibliorgrafia
 
+-Ingeniería Mecafenix, La enciclopedia de la ingeniería, ¿Que es un capacitor y sus tipos?, Nov 2020, Recuperado de: https://www.ingmecafenix.com/electronica/el-capacitor/
 
+-Boylestad - "Análisis Introductorio de Circuitos" - 8va edición - Sección 12.5 (Los tipos de inductores)
+
+-SIEMENS - "Componentes Electrónicos" - Marcombo - 1987 - Código de Biblioteca Central: 621.381 5/S.19
+
+-Vassallo - "Manual de componentes y circuitos pasivos" - Ediciones CEAC - Barcelona - 1981 (Código K241)
+
+-Vassallo - "Componentes Electrónicos" - Ediciones CEAC - Barcelona - 1987 (Código K99) - Capítulo 4
+
+-Tema 4 Capacitores y bobinas, Análisis de Circuitos (G-286). Grado en Ingeniería de Tecnologías de Telecomunicación, José A. Pereda, Dpto. Ing. de Comunicaciones, Universidad de Cantabria.
 
 
