@@ -28,7 +28,7 @@ Inductores y Capacitores
 En los circuitos electrónicos, los capacitores se usan para manipular voltajes y corrientes variables con  el tiempo.  Un  capacitor está cargado, cuando existe una carga 
 eléctrica  en  sus  placas  o  cuando  existe  una  diferencia  de  potencial  entre  ellas.  Se  cargan  mediante  una  fuente  de  fuerza  electromotriz  fem.  Después  de  un  tiempo relativamente corto de carga, el  capacitor adquiere una carga eléctrica  y por lo mismo tendrá una diferencia de potencial entre sus placas.
 
-![Inductor 1](https://user-images.githubusercontent.com/75337022/108885628-0c046d80-75d6-11eb-88c3-c8a04ee9c470.jpg)
+![Capacitor 2](https://user-images.githubusercontent.com/75337022/108885716-20486a80-75d6-11eb-9331-a74ee18ebbc1.png)
 
 2.2 Inductor: El nombre indica que es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina.  Se  elabora enrollando  alambre  conductor  en círculos, dando  varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al  hacer  contacto  consigo  mismo  al  enrollarse,  se  emplea  alambre  esmaltado  en  la confección del inductor.Cada vuelta que el alambre efectúa se llama espira. 
 
@@ -36,7 +36,8 @@ eléctrica  en  sus  placas  o  cuando  existe  una  diferencia  de  potencial  
 
 - 2.2.1: Funcionamiento eléctrica  en  sus  placas  o  cuando  existe  una  diferencia  de  potencial  entre  ellas.  Se  cargan  mediante  una  fuente  de  fuerza  electromotriz  fem.  Después  de  un  tiempo relativamente corto de carga, el  capacitor adquiere una carga eléctrica  y por lo mismo tendrá una diferencia de potencial entre sus placas. 2.2 Inductor El nombre indica que es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina.  Se  elabora enrollando  alambre  conductor  en círculos, dando  varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al  hacer  contacto  consigo  mismo  al  enrollarse,  se  emplea  alambre  esmaltado  en  la confección del inductor. Cada vuelta que el alambre efectúa se llama espira. Funcionamiento  Cuando circula una corriente por las espiras, se induce un campo magnético que atraviesa el  cilindro  helicoidal  en  su  longitud,  y  también  en  el  exterior  del  solenoide.  Esto  se conoce como  ley  de  Faraday.  La capacidad inductiva de  una  bobina  se puede  medir  a través  de  un  parámetro  propio  de  la  misma  llamado  auto  inductancia,  o  sencillamente inductancia.  Cuando  una  bobina  interactúa  magnéticamente  con  otras,  se  produce  un fenómeno llamado inductancia mutua, a tener en cuenta en algunos circuitos. Se puede mejorar la inductancia de una bobina si las espiras están arrolladas alrededor de un núcleo de material ferromagnético. En  corriente  continua,  lo  que  más  se  aprovecha  de  los  inductores  es  la  capacidad magnética,  en  tanto  que  en  corriente  alterna,  y  en  regímenes  de  señales  eléctricas variables, se aprovecha el comportamiento del inductor como variador de la señal eléctrica en el tiempo.
 
-![Capacitor 2](https://user-images.githubusercontent.com/75337022/108885716-20486a80-75d6-11eb-9331-a74ee18ebbc1.png)
+![Inductor 1](https://user-images.githubusercontent.com/75337022/108885628-0c046d80-75d6-11eb-88c3-c8a04ee9c470.jpg)
+
 
 3. Materiales 
 
