@@ -20,20 +20,33 @@ Inductores y Capacitores
 
 2. Marco Teorico
 
-2.1 Capacitor: Un  capacitor  o  condensador  eléctrico,  es  un  dispositivo  que  se  utiliza  para  almacenar energía y liberarla rápidamente. Funciona con un campo eléctrico, que almacena energía lentamente  en  sus  placas,  alimentado  por  su  batería  durante  algunos  segundos,  para descargarlo rápidamente, en solo algunos milisegundos, como un golpe de látigo (impulso eléctrico).  
+2.1 Capacitor: Un  capacitor  o  condensador  eléctrico,  es  un  dispositivo  que  se  utiliza  para  almacenar energía y liberarla rápidamente. Funciona con un campo eléctrico, que almacena energía lentamente  en  sus  placas,  alimentado  por  su  batería  durante  algunos  segundos,  para descargarlo rápidamente, en solo algunos milisegundos, como un golpe de látigo (impulso eléctrico). 
+
+![Capacitor 1](https://user-images.githubusercontent.com/75337022/108885676-17579900-75d6-11eb-96f7-9811c7cb4363.jpg)
+
 - 2.1.1: Los  capacitores  o  condensador  de  energía  eléctrica,  se  emplean  para  proveer  proveer intensas pulsaciones eléctricas, de láser, como también para producir campos eléctricos como  es  el  caso  del  dispositivo  de  placas  paralelas  que  desvía  los  haces  de  partículas cargadas. 
 En los circuitos electrónicos, los capacitores se usan para manipular voltajes y corrientes variables con  el tiempo.  Un  capacitor está cargado, cuando existe una carga 
 eléctrica  en  sus  placas  o  cuando  existe  una  diferencia  de  potencial  entre  ellas.  Se  cargan  mediante  una  fuente  de  fuerza  electromotriz  fem.  Después  de  un  tiempo relativamente corto de carga, el  capacitor adquiere una carga eléctrica  y por lo mismo tendrá una diferencia de potencial entre sus placas.
 
-2.2 Inductor: El nombre indica que es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina.  Se  elabora enrollando  alambre  conductor  en círculos, dando  varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al  hacer  contacto  consigo  mismo  al  enrollarse,  se  emplea  alambre  esmaltado  en  la confección del inductor. 
-Cada vuelta que el alambre efectúa se llama espira. 
+![Inductor 1](https://user-images.githubusercontent.com/75337022/108885628-0c046d80-75d6-11eb-88c3-c8a04ee9c470.jpg)
+
+2.2 Inductor: El nombre indica que es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina.  Se  elabora enrollando  alambre  conductor  en círculos, dando  varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al  hacer  contacto  consigo  mismo  al  enrollarse,  se  emplea  alambre  esmaltado  en  la confección del inductor.Cada vuelta que el alambre efectúa se llama espira. 
+
+![Inductor 2](https://user-images.githubusercontent.com/75337022/108885654-11fa4e80-75d6-11eb-96c6-3ff0dda4897e.jpg)
+
 - 2.2.1: Funcionamiento eléctrica  en  sus  placas  o  cuando  existe  una  diferencia  de  potencial  entre  ellas.  Se  cargan  mediante  una  fuente  de  fuerza  electromotriz  fem.  Después  de  un  tiempo relativamente corto de carga, el  capacitor adquiere una carga eléctrica  y por lo mismo tendrá una diferencia de potencial entre sus placas. 2.2 Inductor El nombre indica que es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina.  Se  elabora enrollando  alambre  conductor  en círculos, dando  varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al  hacer  contacto  consigo  mismo  al  enrollarse,  se  emplea  alambre  esmaltado  en  la confección del inductor. Cada vuelta que el alambre efectúa se llama espira. Funcionamiento  Cuando circula una corriente por las espiras, se induce un campo magnético que atraviesa el  cilindro  helicoidal  en  su  longitud,  y  también  en  el  exterior  del  solenoide.  Esto  se conoce como  ley  de  Faraday.  La capacidad inductiva de  una  bobina  se puede  medir  a través  de  un  parámetro  propio  de  la  misma  llamado  auto  inductancia,  o  sencillamente inductancia.  Cuando  una  bobina  interactúa  magnéticamente  con  otras,  se  produce  un fenómeno llamado inductancia mutua, a tener en cuenta en algunos circuitos. Se puede mejorar la inductancia de una bobina si las espiras están arrolladas alrededor de un núcleo de material ferromagnético. En  corriente  continua,  lo  que  más  se  aprovecha  de  los  inductores  es  la  capacidad magnética,  en  tanto  que  en  corriente  alterna,  y  en  regímenes  de  señales  eléctricas variables, se aprovecha el comportamiento del inductor como variador de la señal eléctrica en el tiempo.
 
+![Capacitor 2](https://user-images.githubusercontent.com/75337022/108885716-20486a80-75d6-11eb-9331-a74ee18ebbc1.png)
+
 3. Materiales 
+
+![Materiales](https://user-images.githubusercontent.com/75337022/108885753-2b9b9600-75d6-11eb-9961-4181c9830f4b.png)
 
 4. Procedimiento 
 
  4.1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
+![Circuito 1](https://user-images.githubusercontent.com/75337022/108885825-4110c000-75d6-11eb-9d0a-637519996484.png)
 
 a. Utilice el osciloscopio para observar el voltaje V௢ variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
@@ -43,7 +56,28 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
  4.2.- Construya el circuito mostrado en la Figura 2
 
+![Circuito 2](https://user-images.githubusercontent.com/75337022/108885843-466e0a80-75d6-11eb-81a9-9f1db8f65ab0.png)
+
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
+ 4.3 Para realizar el procedmiento debemos tomar en cuenta el calculo de capacitores e inductores equivalentes asi mismo como su impedancia
+
+ 4.3.1 Calculo Capactitores
+
+![Calculo capacitores](https://user-images.githubusercontent.com/75337022/108885908-5be33480-75d6-11eb-8894-c8f18061f69a.jpg)
+
+![Calculo capacitores 1](https://user-images.githubusercontent.com/75337022/108885936-630a4280-75d6-11eb-9112-c168effef232.png)
+
+ 4.3.2 Calculo Inductores
+
+![Calculo indcutor 1](https://user-images.githubusercontent.com/75337022/108885966-6bfb1400-75d6-11eb-82a5-1cc4a5bc3a96.jpg)
+
+![Calculo indcutor 2](https://user-images.githubusercontent.com/75337022/108885998-73bab880-75d6-11eb-8a95-fdb91cc74d72.jpg)
+
+ 4.3.3 Impedancia
+
+![Impedancia](https://user-images.githubusercontent.com/75337022/108886021-7a493000-75d6-11eb-8dfa-c607cabaf1f2.png)
+
 
 5. Analisis de resultados
 
