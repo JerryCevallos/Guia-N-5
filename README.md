@@ -81,6 +81,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 4.4 Resolucion de ejercicios 
 
+ 4.4.1
 
 5. Analisis de resultados
 
@@ -145,6 +146,10 @@ Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equiv
 8. Anexos 
 
  8.1 Circuitos graficados en Software Proteus
+
+
+
+
 
 9. Bibliorgrafia
 
