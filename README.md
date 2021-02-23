@@ -147,9 +147,9 @@ Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equiv
 
  8.1 Circuitos graficados en Software Proteus
 
+![Anexo 1 (1)](https://user-images.githubusercontent.com/75337022/108894089-debcbd00-75df-11eb-9be9-c2196a88622b.jpeg)
 
-
-
+![Anexo 2](https://user-images.githubusercontent.com/75337022/108894131-ea0fe880-75df-11eb-9c01-ca796302c8c4.jpeg)
 
 9. Bibliorgrafia
 
