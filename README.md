@@ -58,14 +58,51 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
  Es posible que los errores de mediciones deban a las tolerancias de error propias de los elementos del circuito o a los equipos de medición porque los datos obtenidos si tienden a ser los correctos.
  
  6.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase  de  transición  y  fase  de  continua.  En  la  fase  de  estabilización,  se  producen  los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el circuito. 
+
+
+
+En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito.
+
+
+
  6.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. 
+
+
+
+Entonces se  puede representar al capacitor como un elemento pasivo más en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente  alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
+
+
+Entonces se  puede representar al inductor como un elemento pasivo más en el circuito.
+
  6.4 ¿Qué cree usted que ocurriría con el voltaje V௢ y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Lo único que sucedería es que los valores de Vₒ varíen en función de que tanto se altere la impedancia 𝑋 del valor total de impedancia 
+
+Si  la  impedancia capacitiva  o  resistiva  resulta  ser menor,  la  caída  de  tensión  Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
+
  6.5 ¿Qué son los valores eficaces de voltaje y corriente?
 
+Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equivalentes  en corriente  continua  es  decir  tendrá  el  mismo  comportamiento  respecto  a  potencia suministrada en el circuito.
 
-7. Conclusiones
-8. Recomendaciones
-9. Anexos 
-10. Bibliorgrafia
+
+
+
+7. Conclusiones y Recomendaciones
+
+   Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc). 
+   Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos.   El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
+   Mientras mayor sea la frecuencia la impedancia capacitiva será menor. 
+   Mientras mayor sea la frecuencia la impedancia inductiva será mayor. 
+
+8. Anexos 
+
+
+9. Bibliorgrafia
+
+
 
 
