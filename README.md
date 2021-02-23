@@ -49,7 +49,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
  5.1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multímetro y las calculadas en el trabajo preparatorio. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
  
- 5.2.- En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X =௏೚ூ en cada una de las frecuencias y también para calcular los valores de L௘௤ y C௘௤ según sea el caso. Anote los resultados en una tabla haciendo constar también las frecuencias. Comente los resultados.
+ 5.2.- En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X = Vo/I en cada una de las frecuencias y también para calcular los valores de L௘௤ y C௘௤ según sea el caso. Anote los resultados en una tabla haciendo constar también las frecuencias. Comente los resultados.
 
 6. Preguntas
 
